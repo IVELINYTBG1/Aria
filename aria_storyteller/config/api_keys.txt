@@ -1,0 +1,33 @@
+# ══════════════════════════════════════════════════════════
+#  ARIA STORYTELLER — API KEY REFERENCE FILE
+# ══════════════════════════════════════════════════════════
+#
+#  HOW TO SET YOUR API KEY
+#  ────────────────────────
+#  Open the .env file in the root of this project and paste
+#  your Groq API key next to GROQ_API_KEY=
+#
+#  Example:
+#    GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#
+#  WHERE TO GET YOUR KEY
+#  ──────────────────────
+#  1. Go to https://console.groq.com
+#  2. Sign in or create a free account
+#  3. Navigate to "API Keys" in the sidebar
+#  4. Click "Create API Key" and copy it
+#  5. Paste it in the .env file
+#
+#  MODELS USED
+#  ────────────
+#  LLM  (story generation):  meta-llama/llama-4-maverick-17b-128e-instruct
+#                             (or moonshotai/kimi-k2-instruct for 120B tier)
+#  TTS  (Aria's voice):       playai-tts  with  voice: Fritz-PlayAI
+#                             (Orpheus English via Groq TTS API)
+#
+#  IMPORTANT
+#  ──────────
+#  Never share your .env file or commit it to git.
+#  The .gitignore already excludes it.
+#
+# ══════════════════════════════════════════════════════════
