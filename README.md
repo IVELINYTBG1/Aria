@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/28124411/README.md)
-# Aria# ✦ Aria — The Eternal Storyteller
+[README.md](https://github.com/user-attachments/files/28124441/README.md)
+# ✦ Aria — The Eternal Storyteller
 
 An AI-powered interactive narrative engine. Aria tells stories that **never end**, 
 voices every character in the world, and crafts situations that challenge your 
